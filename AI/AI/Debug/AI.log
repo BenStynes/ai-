@@ -1,0 +1,6 @@
+﻿  FuzzyLogic.cpp
+  Game.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Ben Stynes\source\repos\AI\AI\FuzzyLogic.h(46): warning C4715: 'FuzzyLogic::FuzzyTriangle': not all control paths return a value
+  AI.vcxproj -> C:\Users\Ben Stynes\source\repos\AI\Debug\AI.exe
